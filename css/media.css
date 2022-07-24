@@ -1,0 +1,381 @@
+
+@media (max-width:992px) {
+    .para {
+        width: 90%;
+        border: px solid var(--secondary-color);
+        border-style: dashed;
+        padding: 10px;
+        border-color: #3d2514;
+        border-spacing: 10px;
+        text-align: center;
+    }
+    .content-one h1 {
+        font-size: 41px;
+    }
+    .navbar-toggler{
+        margin-left: auto;
+    }
+    .content h1 {
+        font-size: 22px;
+    }
+    .photo-content h2 {
+        color: #fff;
+        font-size: 22px;
+    }
+    .photo-one-content h2 {
+        font-size: 20px;
+    }
+    .photo-one {
+        margin-top: 18px;
+    }
+    .item-content h3 {
+        color: var(--secondary-color);
+        font-size: 25px;
+        font-weight: 600;
+        font-family: 'Bebas Neue', cursive;
+        margin: 10px 0px;
+        padding: 10px 10px;
+    }
+    .event-content h2{
+        margin: 0;
+        font-size: 22px;
+        margin: 10px 0px;
+    }
+    .event-content p{
+        margin: 0;
+    }
+    .owl-dots{
+        margin: 0;
+    }
+    .event-one{
+        padding-bottom: 20px;
+    }
+    .contact-us {
+        background-image: url(../images/Burger-House.png-banner2.png);
+        height: 52vh;
+        background-position: left;
+        background-size: cover;
+    }
+    .page {
+        min-height: 30vh;
+        align-items: center;
+        justify-content: center;
+    }
+    .info {
+        color: #ffff;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: 2px;
+        margin-top: 100px;
+    }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+    .para {
+        width: 65%;
+        text-align: center;
+        margin: auto;
+        
+    }
+    .content-one h1 {
+        font-size: 41px;
+       color:var(--Sailor-Blue);
+        text-shadow: 0px 10px 10px #f5f5dc;
+        text-align: center;
+        margin-top: 45px;
+    }
+
+    .content-one h4 {
+        color: var(--Sailor-Blue);
+        font-size: 22px;
+        text-align: center;
+        margin-top: 27px;
+    }
+    .nav-item {
+        margin: auto;
+    }
+    .navbar-toggler{
+        margin-right: auto;
+
+        margin-left:20px ;
+        margin-top: 20px;
+    }
+
+    .deli {
+        color: var(--secondary-color);
+        font-size: 16px;
+        text-align: start;
+        margin-top: 20px;
+    }
+    .content h1 {
+        font-size: 22px;
+    }
+    .photo-content h2 {
+      font-size: 22px;
+    }
+    .photo-one-content h2 {
+        font-size: 22px;
+    }
+    .event-content h2 {
+        font-size: 22px;
+    }
+    .owl-dots {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .contact-us {
+        height: 70vh;
+    }
+    .page{
+        min-height: 40vh;
+    }
+    .contact {
+        display: block;
+
+
+   
+    }
+    .order h3{
+        font-size: 22px;
+    }
+    .contact-left {
+        width: 80%;
+        margin: auto;
+    }
+    .contact-right {
+        width: 80%;
+        margin: auto;
+    }
+    .contact-left input {
+        border-bottom: 1px solid #999999;
+        margin: 15px 0px;
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    }
+    .contact-us h4 {
+        font-size:20px ;
+    }
+    .contact-us h3{
+        font-size: 21px;
+
+    }
+    .last-berger p{
+        margin: 10px;
+    }
+    .info {
+        margin: 0;
+    }
+    .dis{
+        display: none;
+    }
+    .ino-icon{
+        font-size: 20px;
+    }
+    .info-icon:hover{
+        color: var(--Orange-color);
+    }
+    .info-text p{
+        font-size: 16px;
+    }
+    .footer {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .ftr-right {
+        margin: auto;
+    }
+    .ftr-right ul li {
+        margin: 10px
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:576px){
+    .para {
+        width: 65%;
+        text-align: center;
+        margin: auto;
+    }
+    .content-one h1 {
+        font-size: 41px;
+       color:var(--Sailor-Blue);
+        text-shadow: 0px 10px 10px #f5f5dc;
+        text-align: center;
+        margin-top: 45px;
+    }
+
+    .content-one h4 {
+        color: var(--Sailor-Blue);
+        font-size: 22px;
+        text-align: center;
+        margin-top: 27px;
+    }
+    .nav-item {
+        margin: auto;
+    }
+    .navbar-toggler{
+        margin-left: auto;
+
+        margin-right:20px ;
+    }
+
+    .deli {
+        color: var(--secondary-color);
+        font-size: 16px;
+        text-align: center;
+    }
+    .content h1 {
+        font-size: 22px;
+    }
+    .photo-content h2 {
+      font-size: 22px;
+    }
+    .photo-one-content h2 {
+        font-size: 22px;
+    }
+    .event-content h2 {
+        font-size: 22px;
+    }
+    .owl-dots {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .contact-us {
+        height: 70vh;
+    }
+    .page{
+        min-height: 40vh;
+    }
+    .contact {
+        display: block;
+
+
+   
+    }
+    .order h3{
+        font-size: 22px;
+    }
+    .contact-left {
+        width: 80%;
+        margin: auto;
+    }
+    .contact-right {
+        width: 80%;
+        margin: auto;
+    }
+    .contact-left input {
+        border-bottom: 1px solid #999999;
+        margin: 15px 0px;
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    }
+    .contact-us h4 {
+        font-size:20px ;
+    }
+    .contact-us h3{
+        font-size: 21px;
+
+    }
+    .last-berger p{
+        margin: 10px;
+    }
+    .info {
+        margin: 0;
+    }
+    .dis{
+        display: none;
+    }
+    .ino-icon{
+        font-size: 20px;
+    }
+    .info-icon:hover{
+        color: var(--Orange-color);
+    }
+    .info-text p{
+        font-size: 16px;
+    }
+    .footer {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .ftr-right {
+        margin: auto;
+    }
+    .ftr-right ul li {
+        margin: 10px
+    }
+
+    
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
